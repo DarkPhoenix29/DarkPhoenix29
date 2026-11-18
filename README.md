@@ -1,16 +1,136 @@
-## Hi there 👋
+&#x20;\<div align="center">
 
-<!--
-**DarkPhoenix29/DarkPhoenix29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+\<!-- Animated Header -->
 
-Here are some ideas to get you started:
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=YASH%20TOHAN&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descAlignY=58&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,50:203A43,100:2C5364\&height=200\&section=header\&text=YASH%20TOHAN\&fontSize=55\&fontColor=ffffff\&fontAlignY=38\&desc=Building%20Ideas%20Into%20Reality\&descAlignY=58\&animation=fadeIn)" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hey, I'm Yash Tohan 👋
+
+### AI & Machine Learning Student | Python Developer | Creative Thinker
+
+\<a href="[https://github.com/DarkPhoenix29](https://github.com/DarkPhoenix29)">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence+%26+ML;Building+with+Python;Experimenting+with+New+Technologies;Turning+Creative+Ideas+Into+Projects](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=19\&duration=3000\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Exploring+Artificial+Intelligence+%26+ML;Building+with+Python;Experimenting+with+New+Technologies;Turning+Creative+Ideas+Into+Projects)" alt="Typing SVG" />
+\</a>
+
+\<br/>
+
+
+\
+
+
+\</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm **Yash Tohan**, a third-year B.Tech student specializing in **Artificial Intelligence and Machine Learning**.
+
+I enjoy exploring technology, experimenting with ideas, and building things that solve real-world problems.
+
+My interests span across AI, machine learning, Python development, and graphic design. I like combining technical thinking with creativity to approach problems from different perspectives.
+
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Machine Learning.
+- 🐍 Interested in Python development and AI/ML.
+- 🤖 Exploring intelligent systems and emerging technologies.
+- 🎨 Experienced in graphic design and AI annotation.
+- 🚀 Always learning, experimenting, and building.
+
+> I believe the best way to learn technology is to build with it.
+
+## 🛠️ Tech Stack & Skills
+
+### Languages & Development
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=python,typescript,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=python,typescript,git,github,vscode\&theme=dark)" /> \</p>
+
+### AI & Machine Learning
+
+\<p>   \<img src="[https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge\&logo=openai\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge\&logo=scikitlearn\&logoColor=orange)" />   \<img src="[https://img.shields.io/badge/AI%20Annotation-6C3483?style=for-the-badge&logo=databricks&logoColor=white](https://img.shields.io/badge/AI%20Annotation-6C3483?style=for-the-badge\&logo=databricks\&logoColor=white)" /> \</p>
+
+### Creative Skills
+
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/Graphic%20Design-FF61F6?style=for-the-badge&logo=adobe&logoColor=white](https://img.shields.io/badge/Graphic%20Design-FF61F6?style=for-the-badge\&logo=adobe\&logoColor=white)" />
+\</p>
+
+## 🚀 Featured Projects
+
+\<table>
+\<tr>
+\<td width="50%">
+
+### 🔬 NPL
+
+**Gravimetric Method Project**
+
+A project focused on the gravimetric method, exploring scientific concepts and their practical application.
+
+
+
+\</td>
+\<td width="50%">
+
+### 🌐 NEAR Protocol
+
+**AI Agent Economy**
+
+Exploring a market and clearing house for AI agent swarms on NEAR, featuring sealed-bid rounds, signed IOUs, and atomic settlement through NEAR Intents.
+
+
+
+\</td> \</tr> \</table>
+
+## 📊 GitHub Analytics
+
+\<div align="center">
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=DarkPhoenix29&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=DarkPhoenix29\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" />
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix29&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkPhoenix29\&layout=compact\&theme=tokyonight\&hide_border=true)" />
+
+\<br/>\<br/>
+
+\<img width="70%" src="[https://streak-stats.demolab.com?user=DarkPhoenix29&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=DarkPhoenix29\&theme=tokyonight\&hide_border=true)" />
+
+\</div>
+
+## 🐍 Contribution Journey
+
+\<div align="center">
+
+\<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="350" alt="Developer coding animation" />
+
+\<br/>
+
+*Every project starts with curiosity. Every contribution is another step forward.*
+
+\</div>
+
+## 🎯 Currently Focused On
+
+- Deepening my understanding of Artificial Intelligence and Machine Learning.
+- Improving my Python development skills.
+- Exploring practical applications of AI.
+- Experimenting with new technologies and development tools.
+- Building projects and learning through hands-on experience.
+
+## Connect
+
+I'm always open to connecting with developers, designers, students, and people who enjoy building interesting things.
+
+\<div align="center">
+
+\<a href="[https://github.com/DarkPhoenix29](https://github.com/DarkPhoenix29)">
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-DarkPhoenix29-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-DarkPhoenix29-181717?style=for-the-badge\&logo=github)" />
+\</a>
+
+\<br/>\<br/>
+
+### Thanks for visiting! ⭐
+
+**If you find something interesting here, consider leaving a star.**
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0F2027,50:203A43,100:2C5364\&height=110\&section=footer)" width="100%" />
+
+\</div>
